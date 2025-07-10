@@ -1,0 +1,1 @@
+export default function Novelas() { return <section>Novelas</section>; }
