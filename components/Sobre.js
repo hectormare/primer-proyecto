@@ -1,4 +1,4 @@
-jsx
+
 export default function Sobre() {
   return (
     <section id="sobre" className="py-20 px-6 text-center text-white bg-gray-900 font-serif">
